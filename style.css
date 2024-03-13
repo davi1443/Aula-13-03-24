@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(220, 218, 218);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    text-align: left;
+    color: black;
+    font-size: 30px;
+}
+
+h1{
+    text-align: left;
+    color: black;
+    height: auto;
+    font-size: 50px;
+}
+
+img {
+    height: 400px;
+}
+
+.tigre {
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+li:hover {
+    color: red;
+}
